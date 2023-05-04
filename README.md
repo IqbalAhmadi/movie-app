@@ -1,5 +1,3 @@
-# Under construction 🔥🛠️🎬
-
 # Movie Application
 
 This is a movie application built with HTML, CSS, and JavaScript that allows users to search for movies based on keywords and displays at least 20 results using a third-party API. When the user hovers over a movie poster, the movie's description is displayed.
